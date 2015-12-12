@@ -2,7 +2,7 @@
 /*
  * Email Form Submission
  */
-$contact_email = 'sample@host.com';	//change this to your email
+$contact_email = 'ngulmus@u.northwestern.edu';	//change this to your email
 
 
 function isValidEmail($email){
